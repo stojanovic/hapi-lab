@@ -1,0 +1,23 @@
+{
+  "name": "hapi-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stojanovic/hapi-lab.git"
+  },
+  "author": "Slobodan Stojanovic <slobodan@cloudhorizon.com> (http://slobodan.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stojanovic/hapi-lab/issues"
+  },
+  "homepage": "https://github.com/stojanovic/hapi-lab",
+  "dependencies": {
+    "hapi": "^13.0.0",
+    "lab": "^8.3.0"
+  }
+}
