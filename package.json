@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon bin/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "test": "lab -c"
+    },
   "repository": {
     "type": "git",
     "url": "https://github.com/stojanovic/hapi-lab.git"
