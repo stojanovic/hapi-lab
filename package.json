@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon bin/index.js",
     "test": "lab -c"
-    },
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/stojanovic/hapi-lab.git"
@@ -22,6 +22,8 @@
     "lab": "^8.3.0"
   },
   "devDependencies": {
+    "code": "^2.1.0",
+    "lab": "^8.3.0",
     "nodemon": "^1.8.1"
   }
 }
